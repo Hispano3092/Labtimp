@@ -1,0 +1,1 @@
+./Debug/Shifr.cpp.o ./Debug/main.cpp.o
